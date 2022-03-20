@@ -27,7 +27,7 @@ const App = () => {
 
   useEffect(() => {
     fn();
-  }, []);
+  });
 
   const search = () => {
     fn();
