@@ -26,7 +26,7 @@ const Detail = () => {
   };
   useEffect(() => {
     fetch_fn();
-  }, [id]);
+  });
 
   return (
     <>

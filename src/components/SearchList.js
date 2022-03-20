@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+
 import MovieCard from "./MovieCard";
 import Grid from "@mui/material/Grid";
 import { useSelector } from "react-redux";
